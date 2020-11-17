@@ -1,8 +1,8 @@
-# cobra_task_v1
-Competitive Behavioral assessment of Rivalry and Admiration-seeking (CoBRA) task
+# CoBRA Task V1
+## Competitive Behavioral assessment of Rivalry and Admiration-seeking (CoBRA) task
 
 ## Short description:
-The snake game is a social decision-making task designed to capture narcissistic reactions to defeat, using a computer game competition where the outcomes are rigged. Players are told they will play against previous participants whose performance has been pre-recorded and that in doing so, they will take part in the competition’s global ranking.
+The CoBRA task is a social decision-making task designed to capture narcissistic reactions to defeat, using a computer game competition where the outcomes are rigged. Players are told they will play against previous participants whose performance has been pre-recorded and that in doing so, they will take part in the competition’s global ranking.
 Striving for dominance is measured both on a one-to-one competitive level and on a global hierarchical level by 2 distinct outcome measures:
 - **outcome measure 1 – point stealing (rivalry)**: at the beginning of each trial, participants can choose to steal points from their next opponent to increase their own chances of victory.
 - **outcome measure 2 – rank buying (admiration-seeking)**: at the end of each trial, participants can pay for boosters that improve their rank in the competition’s global league table.
