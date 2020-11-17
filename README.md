@@ -1,5 +1,5 @@
 # CoBRA Task V1
-## Competitive Behavioral assessment of Rivalry and Admiration-seeking (CoBRA) task
+Competitive Behavioral assessment of Rivalry and Admiration-seeking (CoBRA) task
 
 ## Short description:
 The CoBRA task is a social decision-making task designed to capture narcissistic reactions to defeat, using a computer game competition where the outcomes are rigged. Players are told they will play against previous participants whose performance has been pre-recorded and that in doing so, they will take part in the competition’s global ranking.
