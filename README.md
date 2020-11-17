@@ -12,10 +12,10 @@ Please, note that this game is designed to work on PCs and Windows tablets, the 
 You need to have MATLAB (version 2013 or older) and Python (either version 2.7 or 3.5) installed.
 
 ## Installation:
-•	Download the content of this repository and decompress the .zip file *cobra_task_V1.zip* in a location of your choice.
+•	Download the content of this repository and decompress the .zip file *cobra_task_v1-main.zip* in a location of your choice.
 Warning: Do not put it in MATLAB’s folder; anywhere else is fine.
 
-•	Open the *cobra_task_V1* folder.
+•	Open the *cobra_task_v1-main* folder.
 
 •	Carefully read the user manual *cobra_task_v1_manual.pdf* before launching the task.
 
