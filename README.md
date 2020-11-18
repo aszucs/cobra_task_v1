@@ -18,6 +18,6 @@ Warning: Do not put it in MATLAB’s folder; anywhere else is fine.
 
 •	Carefully read the user manual *cobra_task_v1_manual.pdf* before launching the task.
 
-•	To run the task, open the file *main_game_launcher.m* with MATLAB (right click -> Open with -> MATLAB), and simply click “run” from the MATLAB editor window (green arrow in the upper menu). If prompted by MATLAB, select the "Change Folder" option.
+•	To run the task, open the file *main_game_launcher.m* with MATLAB (right click -> Open with -> MATLAB), and simply click “run” from the MATLAB editor window (green arrowhead in the upper menu). If prompted by MATLAB, select the "Change Folder" option.
 
 •	Further instructions, troubleshooting tips and a codebook to measured variables can be found in the **user manual**.
