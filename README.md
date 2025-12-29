@@ -10,6 +10,8 @@ Striving for dominance is measured both on a one-to-one competitive level and on
 - **outcome measure 2 – rank buying (admiration-seeking)**: at the end of each trial, participants can pay for boosters that improve their rank in the competition’s global league table.
 
 For a detailed description of the task, see the following article (for any questions regarding the task, please contact the corresponding author, Anna Szücs):
+
+
 ➔ Szücs A, Szanto K, Adalbert J, Wright AG, Clark L, Dombrovski AY. Status, rivalry and admiration-seeking in narcissism and depression: A behavioral study. PloS one. 2020 Dec 3;15(12):e0243588. DOI: https://doi.org/10.1371/journal.pone.0243588
 
 ## Software requirements:
