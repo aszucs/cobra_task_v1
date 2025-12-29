@@ -1,5 +1,6 @@
 # CoBRA Task V1
 Competitive Behavioral assessment of Rivalry and Admiration-seeking (CoBRA) task
+
 NOTE: A more recent version of this task can be found at https://github.com/aszucs/cobra_task_v2.
 
 ## Short description:
